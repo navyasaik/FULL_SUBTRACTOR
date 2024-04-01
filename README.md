@@ -26,6 +26,7 @@ STEP:7 compare the output with truth table.
 ![image](https://github.com/RESMIRNAIR/FULL_SUBTRACTOR/assets/154305926/7d480140-153a-4a7e-a6d2-5323c6bd4974)
 
 VERILOG CODE:
+
 module full_sub(a,b,bin,diff,borrow);
 
 input a,b,bin;
